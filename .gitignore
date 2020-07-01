@@ -1,1 +1,9 @@
+# for base code
 origin-code
+
+# for IDE
+.idea
+
+# for Editor
+*.swp
+*~
