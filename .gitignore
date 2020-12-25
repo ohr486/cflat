@@ -3,6 +3,8 @@ origin-code
 
 # for IDE
 .idea
+*.iml
+.vscode
 
 # for Editor
 *.swp
