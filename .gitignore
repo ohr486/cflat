@@ -1,8 +1,12 @@
+# for Parser
+net/ohr486/cflat/parser/*
+!net/ohr486/cflat/parser/Parser.jj
+
 # for base code
 origin-code
 
 # for IDE
-.idea
+.ide*
 *.iml
 .vscode
 
