@@ -13,3 +13,6 @@ origin-code
 # for Editor
 *.swp
 *~
+
+# for Mac
+.DS_Store
